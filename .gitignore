@@ -1,0 +1,16 @@
+.env
+.env.docker
+.env.prod
+*.pyc
+
+.vscode/
+.idea/
+.scripts/
+.old/
+.pre/
+
+/scripts/
+/static/
+/media/
+/venv/
+/base/settings/local.py
