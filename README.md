@@ -1,4 +1,4 @@
-# Boilerplate Backend for Independent Backend
+# Boilerplate Django Independent Backend
 
 The code is based on two main services based on DJANGO (app) and POSTGRESQL (relational db).
 
